@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "13",
+      "firstName": "Lair",
+      "age": 29,
+      "companyId": "1"
+    },
+    {
+      "id": "14",
+      "firstName": "Bruna",
+      "age": 28,
+      "companyId": "1"
+    },
+    {
+      "id": "15",
+      "firstName": "Cleber",
+      "age": 30,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "sector": "IT"
+    },
+    {
+      "id": "2",
+      "name": "Banrisul",
+      "sector": "Bank"
+    }
+  ]
+}
